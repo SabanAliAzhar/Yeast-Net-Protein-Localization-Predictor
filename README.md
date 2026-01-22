@@ -39,8 +39,3 @@ The project generates a 2x2 comparison plot to visualize how different strategie
 
 
 
-## 🛠️ Installation & Usage
-
-1. **Clone the repo:**
-   ```bash
-   git clone [https://github.com/your-username/yeast-net.git](https://github.com/your-username/yeast-net.git)
